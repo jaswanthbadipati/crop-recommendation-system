@@ -85,7 +85,7 @@ The **Random Forest** model was selected as the final model due to its robustnes
 ```bash
 pip install -r requirements.txt
 
-### ⚙️ Step 2: Run Streamlit app
+##⚙️ Step 2: Run Streamlit app
 ```bash
 streamlit run crop_app.py
 
