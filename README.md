@@ -15,6 +15,7 @@ In agriculture, choosing the right crop based on the soil's nutrient content and
 Using these parameters, the system predicts the most suitable crop to grow, helping optimize agricultural productivity.
 
 ---
+<img width="1400" height="901" alt="image" src="https://github.com/user-attachments/assets/0fd2cef0-c69e-478f-85a4-a82db0fe856f" />
 
 ## 🛠️ Technologies Used
 
